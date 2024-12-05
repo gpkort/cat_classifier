@@ -1,0 +1,7 @@
+.venv
+archives
+model/h5
+model/keras
+data/image_data
+data/model_dataset/*
+data/dataset.tar.gz
